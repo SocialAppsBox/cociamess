@@ -1,0 +1,18 @@
+.messenger-custom_bar {  
+  height: 35px;  
+  display: none;  
+  background: url('images/bar.png') repeat-x;  
+  background-size: 5px 50px;
+  border: 1px solid #009911;
+  border-radius: 15px;  
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15x;   
+  padding-top: 10px;   
+  margin: 10px 0 10px 0; 
+  text-align: center;
+}
+
+.messenger-custom_text {
+    font-family : 'Alegreya', serif; 
+    font-size: 18px;      
+}
