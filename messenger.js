@@ -1,7 +1,7 @@
-/*!
+/*
  * jQuery Messenger Plugin
  *
- * Copyright 2011, Teena Thomas
+ * Copyright 2013, Teena Thomas
  * 
  */
 
